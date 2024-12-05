@@ -97,28 +97,6 @@ pip install numpy pandas
 
 ---
 
-## Citation
-
-If you use this script or any of its outputs in your work, please cite the related paper:
-
-```
-@inproceedings{rehab24-6,
-  title={REHAB24-6: Physical Therapy Dataset for Analyzing Pose Estimation Methods},
-  author={Černek, Andrej and Sedmidubsky, Jan and Budikova, Petra},
-  booktitle={Proceedings of SISAP 2024},
-  year={2024},
-  publisher={Springer},
-  doi={10.1007/978-3-031-75823-2_2}
-}
-```
-
----
-
-## License
-
-This repository is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## Acknowledgments
 
