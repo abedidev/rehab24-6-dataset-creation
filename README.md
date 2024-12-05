@@ -1,5 +1,5 @@
 
-# Segmentation and Annotation of the REHAB24-6 Rehabilitation Exercise Data
+# Preprocessing REHAB24-6 Rehabilitation Exercise Dataset
 
 ---
 
